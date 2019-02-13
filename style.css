@@ -1,0 +1,42 @@
+.images{
+	display: flex;
+	flex-wrap: wrap;
+	width: 545px;
+	margin: auto;
+	border: 3px solid black;
+	align-items: stretch;
+	padding-bottom: 25px;
+}
+
+img{
+	width: 250px;
+	height: 250px;
+	margin: 10px
+}
+
+.topheading{
+	font-family: fantasy;
+	font-size: 5em;
+	border-bottom: 4px solid pink;
+	border-right: 4px solid pink;
+	width: 3.2em;
+	height: 1.05em;
+	margin:0px 0px;
+}
+
+.intro{
+	
+	font-style: "Times New Roman";
+	margin-top: 0px;
+}
+
+
+.standardtext{
+	margin: 20px 0px;
+	color:orange;
+	font-size: 20px;
+}
+
+.checked{
+	text-decoration: line-through;
+}
